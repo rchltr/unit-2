@@ -10,7 +10,7 @@
 6 | Sep 19 | 1 | [Dependancy Management / Cocoapods](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-1/2015_09_19.md)
 7 | Sep 20 | 1 | [Dependancy Management / Cocoapods](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-1/2015_09_20.md)
 8 | Sep 22 | 2 | [Kickstarter](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_22.md)
-9 | Sep 24 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_09_24.md)
+9 | Sep 24 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_24.md)
 10 | Sep 26 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_26.md)
 11 | Sep 27 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_27.md)
 12 | Sep 29 | 3 | [Storage (NSUserDefaults)](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_09_29.md)
