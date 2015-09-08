@@ -13,3 +13,5 @@
 9 | Sep 24 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_09_24.md)
 10 | Sep 26 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_26.md)
 11 | Sep 27 | 2 | [Networking](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-2/2015_09_27.md)
+12 | Sep 29 | 3 | [Intro to product](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_09_29.md)
+13 | Oct 01 | 3 | [Storage](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-3/2015_10_01.md)
